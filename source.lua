@@ -590,7 +590,7 @@ Tab1.CanvasSize = UDim2.new(0, 0, 52, 0)
 Tab1.ScrollBarThickness = 0
 
 Editor_2.Name = "Editor"
-Editor_2.Parent = game.StarterGui.ValyseUILibrary.MainUI.FrameButtons.Editor.MainSection["Tab1"].LocalScript.ScriptEditor
+Editor_2.Parent = ValyseUILibrary.MainUI.FrameButtons.Editor.MainSection["Tab1"].LocalScript.ScriptEditor
 Editor_2.BackgroundColor3 = Color3.fromRGB(34, 40, 34)
 Editor_2.BackgroundTransparency = 1.000
 Editor_2.BorderColor3 = Color3.fromRGB(27, 42, 53)
