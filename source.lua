@@ -114,7 +114,7 @@ local Title_2 = Instance.new("TextLabel")
 --Properties:
 
 ValyseUILibrary.Name = "ValyseUILibrary"
-ValyseUILibrary.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+ValyseUILibrary.Parent = game.CoreGui
 ValyseUILibrary.ResetOnSpawn = false
 
 MainUI.Name = "MainUI"
